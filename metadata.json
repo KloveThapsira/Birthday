@@ -1,0 +1,6 @@
+{
+  "name": "Nagalakshmi's Birthday Surprise",
+  "description": "An interactive, heartfelt birthday celebration journey for Nagalakshmi with music, countdown, memories gallery, interactive surprises, and letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
